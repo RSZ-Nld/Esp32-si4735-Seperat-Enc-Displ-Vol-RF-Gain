@@ -15,7 +15,7 @@ Works also with Harduino V4.14 beta
 Works on 12 V max!! 
 ## Schematic
 Diagram ESP32 Si4735 Radio.
-![Schematic]( )
+![Schematic]( https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Diagram-pcb-new.JPG )
 ### Partslist
 ![Partslist](  )
 ### Photos
