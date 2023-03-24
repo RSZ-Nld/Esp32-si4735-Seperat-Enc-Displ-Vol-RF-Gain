@@ -48,6 +48,8 @@ https://github.com/RSZ-Nld/ESP32-Si4735-3.2Inch/blob/main/Gert-V3.5-Reverse.zip
 
 Gerbers are here:
 
+https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Gerbers.zip
+
 
 
 
