@@ -17,10 +17,14 @@ Works on 12 V max!!
 Diagram ESP32 Si4735 Radio.
 ![Schematic]( https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/111.jpg )
 ### Partslist
-![Partslist](  )
+![Partslist](https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/Parts-ESP32%20Dev%20Si4735-Bandpass-Txco-Radio.doc  )
 ### Photos
 With 4 Inch Display ILI9488
 ![4 Inch](https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/134844.jpg )
+
+![Front Pcb]( )
+
+![Back Pcb]( )
 
 
 Flash Program:
