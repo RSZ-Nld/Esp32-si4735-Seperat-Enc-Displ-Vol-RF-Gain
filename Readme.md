@@ -1,4 +1,7 @@
 SW MW LW and FM Radio  With Bandpass filters and Txco, with seperated Display, Encoder and Vol Pot
+This is not on the board, so you have to get a case for this project.
+Add a 7809 to reduce heat dissipation with the 4 Inch Display, that oneuse more current then a 3.2 Inch Display.
+
 ## About the original project
 This project is based on 
 Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341, also works with 4 Inch ILI9488 Display
@@ -6,7 +9,7 @@ Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2C
 Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
-Works also with Harduino V4.14 beta
+Works also with Harduino V4.15
 
 
 
