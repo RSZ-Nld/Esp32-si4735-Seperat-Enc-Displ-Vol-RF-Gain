@@ -9,6 +9,7 @@ Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2C
 Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
+
 Works also with Harduino V4.15
 
 
