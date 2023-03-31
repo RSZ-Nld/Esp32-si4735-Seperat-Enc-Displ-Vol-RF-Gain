@@ -26,9 +26,9 @@ Diagram ESP32 Si4735 Radio.
 With 4 Inch Display ILI9488
 ![4 Inch](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/111.jpg )
 
-![Front Pcb](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Pcb-Front.JPG )
+![Front Pcb](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Front-Pcb-V1.4.JPG )
 
-![Back Pcb](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Pcb-Back.JPG )
+![Back Pcb](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Back-Pcb-V1.4.JPG )
 
 
 Flash Program:
