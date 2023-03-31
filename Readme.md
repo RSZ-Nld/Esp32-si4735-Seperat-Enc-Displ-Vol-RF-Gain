@@ -58,7 +58,7 @@ https://github.com/RSZ-Nld/V1.2-Si4735-ESP32-Txco-Bandpass/blob/main/SI4735_ILI9
 
 Gerbers are here:
 
-https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Gerbers.zip
+https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Gerbers%20V1.4.zip
 
 
 
