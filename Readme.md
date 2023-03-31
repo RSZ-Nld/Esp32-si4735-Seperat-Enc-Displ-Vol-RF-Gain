@@ -1,6 +1,10 @@
 SW MW LW and FM Radio  With Bandpass filters,Txco and Rf amp-Gain control, with seperated Display, Encoder and Vol and Rf Pot
+
 This is not on the board, so you have to get a case for this project.
-Add a 7809 to reduce heat dissipation with the 4 Inch Display, that one use more current then a 3.2 Inch Display.
+
+Add a 7809 to reduce heat dissipation with the 4 Inch Display, 
+
+that one use more current then a 3.2 Inch Display.
 
 ## About the original project
 This project is based on 
