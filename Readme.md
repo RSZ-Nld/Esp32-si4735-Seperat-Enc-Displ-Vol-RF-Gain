@@ -21,18 +21,21 @@ Works also with Harduino V4.1x
 
 
 Works on 12 V 
-## Schematic
-Diagram ESP32 Si4735 Radio.
-![Schematic](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Diagram-V1.4.jpg  )
+
 ### Partslist
 ![Partslist](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/Parts-Si4735-Bandpass-Txco-Radio-Sep-Display.doc  )
+
 ### Photos
-![V414-Air] (https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/V4.14-Air.jpg)
+![V414-Air](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/V4.14-Air.jpg)
 
 ![Pcb](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/pcb.jpg)
 
 With 4 Inch Display ILI9488
 ![4 Inch](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/111.jpg )
+
+## Schematic
+Diagram ESP32 Si4735 Radio.
+![Schematic](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Diagram-V1.4.jpg  )
 
 ![Front Pcb](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/Front-Pcb-V1.4.JPG )
 
