@@ -27,7 +27,7 @@ Diagram ESP32 Si4735 Radio.
 ### Partslist
 ![Partslist](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/Parts-Si4735-Bandpass-Txco-Radio-Sep-Display.doc  )
 ### Photos
-![V414-Air] (ttps://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/V4.14-Air.jpg)
+![V414-Air] (https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/V4.14-Air.jpg)
 
 ![Pcb](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/pcb.jpg)
 
