@@ -14,7 +14,7 @@ Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
 Mod. V. 5.2a made by  IU4ALH Antonino
 V4.11 made by  IU4ALH Antonino
 
-Works also with Harduino V4.15
+Works also with Harduino V4.1x
 
 
 
@@ -27,6 +27,8 @@ Diagram ESP32 Si4735 Radio.
 ### Partslist
 ![Partslist](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/Parts-Si4735-Bandpass-Txco-Radio-Sep-Display.doc  )
 ### Photos
+![Pcb](https://github.com/RSZ-Nld/Esp32-si4735-Seperat-Enc-Displ-Vol-RF-Gain/blob/main/pcb.jpg)
+
 With 4 Inch Display ILI9488
 ![4 Inch](https://github.com/RSZ-Nld/Esp32-si4735-seperated-Enc-Displ-Vol/blob/main/111.jpg )
 
