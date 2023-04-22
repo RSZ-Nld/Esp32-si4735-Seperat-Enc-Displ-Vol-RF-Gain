@@ -11,7 +11,7 @@ This project is based on
 Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341, also works with 4 Inch ILI9488 Display
 Initial code and job this files is a great PE0MGB Gert ( V. 3.5.ino) ...and PU2CLR Ricardo for Si4735 library and SSB patch,
 Mod. V. 4.0 ( original) made by Bernard Binns, Ralph Xavier
-Mod. V. 5.2a made by  IU4ALH Antonino
+Mod. V. 5.2a made by  IU4ALH Antonino  see https://github.com/IU4ALH/IU4ALH
 V4.11 made by  IU4ALH Antonino
 
 Works also with Harduino V4.1x
