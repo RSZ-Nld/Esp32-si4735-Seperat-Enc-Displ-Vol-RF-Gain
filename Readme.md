@@ -9,7 +9,8 @@ that one use more current then a 3.2 Inch Display.
 ## About the original project
 This project is based on 
 Use ESP32 arduino Boards and 3.2 TFT display touchscreen TFT_eSPI Ili9341, also works with 4 Inch ILI9488 Display
-Initial code and job this files is a great PE0MGB Gert https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino
+
+Initial code and job this files is from PE0MGB Gert https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino
 
 ...and PU2CLR Ricardo for Si4735 library and SSB patch,
 
